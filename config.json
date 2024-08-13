@@ -18,8 +18,8 @@
   },
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
+      "background": "#232E37",
+      "foreground": "#FDD23C",
       "yellow": "#D79921",
       "green": "#98971A",
       "gray": "#7C6F64",
